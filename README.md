@@ -2,7 +2,6 @@
 
 - 👀 I’m interested in computer programming
 - 🌱 I’m currently learning web development
-- 💞️ I’m looking to collaborate on ...
 - 📫 luliyateferi@gmail.com
 
 <!---
